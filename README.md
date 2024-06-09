@@ -51,11 +51,9 @@ To run the JavaScript code challenges:
 
 `node arrayMap.js`
 
-### Deployment
-
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/stevenmukama1)
+- GitHub: [@stevenmukama](https://github.com/stevenmukama)
 
 ## Show your support
 
