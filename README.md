@@ -1,75 +1,62 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Task force Challenge
 
-# Project Name
-
-> Description the project.
-
+> This is task force challenge by COA, whereby we build an image gallery and solve code challenges
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
+- Javascript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
+[Coming Soon](https://livedemo.com)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Prerequisites
 
-### Setup
+- Node.js (for running JavaScript code challenges)
 
 ### Install
 
+- clone the repository:
+
+`git clone https://github.com/stevenmukama/CodeChallenge.git`
+
+- Go into the project
+
+`cd CodeChallenge`
+
+- Open the project in your favorite code editor
+
 ### Usage
 
-### Run tests
+To view the image gallery:
+
+1. Open the index.html file in your web browser.
+2. This will display the image gallery built with HTML, CSS, and JavaScript.
+
+To run the JavaScript code challenges:
+
+1. Ensure you have Node.js installed on your machine.
+
+2. Navigate to the challenges directory in your terminal
+
+`cd challenges`
+
+3. Run the desired JavaScript file using Node.js. For example:
+
+`node arrayMap.js`
 
 ### Deployment
 
+👤 **Author**
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@githubhandle](https://github.com/stevenmukama1)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
